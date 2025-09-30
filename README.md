@@ -1,2 +1,2 @@
-# interest-calculation
-Project to calculate simple interest using Bash script
+# Interest Calculation Project
+This project calculates simple interest using a Bash script.
